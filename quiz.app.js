@@ -16,7 +16,7 @@ const quiz = [
    '10月',
    '9月'
    ],
-  correct:'2月'
+  correct:'２月'
  }, {
   question:'ファイナルファンタジーⅣの主人公の名前は？',
   answers: [
